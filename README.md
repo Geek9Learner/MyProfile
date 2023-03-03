@@ -4,7 +4,7 @@
 I love the entire process of Data Extracting, Data Cleaning, Data Modeling and Preparing business required Dashboard.
 
 
-<img align="right" alt="Coding" width="400" src="https://freelancersacademy.com/wp-content/uploads/2018/06/3ae419_b187b75e0a194ec9832b9c716c5a169f_mv2.gif">
+<img align="right" alt="Coding" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek9learner&label=Profile%20views&color=0e75b6&style=flat" alt="geek9learner" /> </p>
 
