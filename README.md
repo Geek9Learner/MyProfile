@@ -16,7 +16,7 @@ I love the entire process of Data Extracting, Data Cleaning, Data Modeling and P
 
 - 📫 How to reach me **keep9647smile@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/vikash-kumar-5b0601169/ </h3>
+<h4 align="left">Connect with me: https://www.linkedin.com/in/vikash-kumar-5b0601169/ </h4>
 <p align="left">
 </p>
 
