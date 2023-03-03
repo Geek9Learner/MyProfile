@@ -8,7 +8,7 @@ I love the entire process of Data Extracting, Data Cleaning, Data Modeling and P
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek9learner&label=Profile%20views&color=0e75b6&style=flat" alt="geek9learner" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics Skill**
+- 🔭 I’m currently working on **Data Analytics Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
